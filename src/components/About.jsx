@@ -58,7 +58,7 @@ const About = () => {
                   </p>
                 </div>
                 <div className="text-center">
-                  <h3 className="text-3xl font-bold gradient-text">2</h3>
+                  <h3 className="text-3xl font-bold gradient-text">3</h3>
                   <p className="text-sm text-gray-600 dark:text-gray-400">
                     Happy Clients
                   </p>
