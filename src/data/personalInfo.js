@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: "Narayan Mestry",
-  title: "Full Stack Python Developer | Cybersecurity Enthusiast",
+  title: "Full-Stack Python Developer | MSc IT | Passionate about Cybersecurity & Cloud",
   subtitle:
     "I build secure and scalable web applications using Flask, Django, MySQL, Docker, and modern DevOps tools. Passionate about Python development, cloud technologies, and cybersecurity best practices.",
   bio: "I'm a Full Stack Python Developer and Cybersecurity Enthusiast with hands-on experience in developing secure and scalable web applications using Flask, MySQL, Docker, and modern DevOps tools. I enjoy building clean, efficient backend systems and follow OWASP best practices to ensure strong security in every project I work on.",
